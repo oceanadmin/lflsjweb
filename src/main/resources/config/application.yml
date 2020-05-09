@@ -36,8 +36,8 @@ jdbc:
   # Mysql 数据库配置
   type: mysql
   driver: com.mysql.jdbc.Driver
- # url: jdbc:mysql://127.0.0.1:3306/lflsj?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull
-  url: jdbc:mysql://47.93.43.117:3306/lflsj?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull
+ url: jdbc:mysql://127.0.0.1:3306/lflsj?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull
+  #url: jdbc:mysql://47.93.43.117:3306/lflsj?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull
   username: root
   password: YXadmin123
   testSql: SELECT 1
