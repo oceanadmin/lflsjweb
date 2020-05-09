@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="logs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/logs/debug.2019-09-03.0.log.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/logs/debug.2019-09-05.0.log.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/classes/logs/debug.2019-09-06.0.log.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

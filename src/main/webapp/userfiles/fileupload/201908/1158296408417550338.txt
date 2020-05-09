@@ -1,0 +1,52 @@
+WxService.java   
+
+createJsapiConfig
+
+getJsapiTicket
+
+
+JssdkServlet.java
+
+IService.java
+
+
+http://testwan-vc.yxwenge.com/itemxq/itemxq.html?activeId=a4f79b9eb2cd49a4b17c40f6c3cd92d8&code=071Bn4p32FUoVO0paqo32Wu7p32Bn4p2
+
+
+http://testwan-vc.yxwenge.com:8080/yxvcity-admin-vc/rest/partnerInfo/getByWxOpenCode
+
+
+http://testwan-vc.yxwenge.com/danche/Partner/html/activeCenter.html?promotionId=1ab6ef97094142a4b0448a6752e16be3
+
+
+getByWxJsApi
+
+http://testwan-vc.yxwenge.com:8080/yxvcity-admin-vc/rest/partnerInfo/getByWxJsApi?
+url=http://testwan-vc.yxwenge.com/danche/Partner/html/activeCenter.html&jsApi=onMenuShareAppMessage,updateTimelineShareData,updateAppMessageShareData
+
+
+http://vc.yxwenge.com/yxvcity-admin-vc/redirect/
+
+{"code":"1000","message":"success","datas":"{\"appid\":null,\"noncestr\":\"tdEAbXnU1oQUDzze\",\"timestamp\":1559208156,\"url\":\"http://testwan-vc.yxwenge.com/danche/Partner/html/activeCenter.html\",\"signature\":\"a5b0f2a703631769c11414dd1affcad74c592547\",\"jsApiList\":[\"onMenuShareAppMessage\",\"updateTimelineShareData\",\"updateAppMessageShareData\"]}"}
+
+{"code":"1000","message":"success","datas":"{\"appid\":null,\"noncestr\":\"tPMXJfJBJD6vYwoX\",\"timestamp\":1559208421,\"url\":\"http://testwan-vc.yxwenge.com/danche/Partner/html/activeCenter.html\",\"signature\":\"aced5cb343cb49e1580dde33a384aaca27c4a347\",\"jsApiList\":[\"onMenuShareAppMessage\",\"updateTimelineShareData\",\"updateAppMessageShareData\"]}"}
+
+
+
+/*var wxconfig = {
+    debug:true,
+    appId:'wx6be7be4a05a0f08c',
+    timestamp:'',
+    nonceStr:'',
+    signature:'',
+    jsApiList:['onMenuShareAppMessage','updateTimelineShareData','updateAppMessageShareData']
+}*/
+
+
+[wx-tools]update accessToken success. 
+
+accessToken:22_XCl1-EbD9flWq4qfS1yzjX6LNt9UWchXexqjmupLYfKqRBIWli18oANBcXFbF1Pi7nf2XmZQWJN7Csd7O_oBvDm9MZthCGmw2LGO6oy5tDMRP-jCwUiR15BiDFZwv21_K2SkC_o05fgIhL0rQFHjAFAETV
+[wx-tools]update jsapiTicket success. 
+
+ticket: HoagFKDcsGMVCIY2vOjf9prOXh8tu_-qGLQahWBlafFKg7bvy-sEfPz6JAKdaWXz8Y5WryQ08ecvRku2TL0UWA
+

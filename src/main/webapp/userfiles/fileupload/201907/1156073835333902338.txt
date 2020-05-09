@@ -1,0 +1,60 @@
+库表设计
+MarketingPartner
+
+id  varchar
+name varchar 姓名
+no   varchar 编号
+sex  varchar 性别
+phone 手机
+position 职业
+wx_code: 微信号
+wx_name: 微信名
+location 所在地
+interest 兴趣
+community_name 拥有社群名称
+community_sieze 社群会员数量
+interactive_mode 互动方式
+achieving 合伙人目标
+
+create_by
+create_date datetime
+update_by
+update_date datetime
+del_flag   char
+remarks
+
+
+内容合伙人
+ContentPartner
+
+id  varchar
+name varchar 姓名
+no   varchar 编号
+sex  varchar 性别
+phone 手机
+position 职业
+wx_code: 微信号
+wx_name: 微信名
+location 所在地
+interest 兴趣
+orientation 合伙人方向
+purposes   加入产品合伙人的目的
+idea   如何看待运动娱乐行业
+reflection  关于运动娱乐变革升级的思考
+
+create_by
+create_date datetime
+update_by
+update_date datetime
+del_flag   char
+remarks
+
+
+
+
+生成模块:com.yxkj.platform
+模块名：coparnet
+功能名：XXXX表
+
+/copartner/copartner
+partner:partnerInfo:view,partner:partnerInfo:edit
